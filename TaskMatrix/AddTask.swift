@@ -54,7 +54,6 @@ class AddTask: UIViewController {
         fourthChoiceButton.addTarget(self, action: #selector(touchedfourthChoiceButton), for: .touchUpInside)
     }
     
-    //ここから　choicedNumberをstringに変えるのもあり
     @objc func touchedAddTaskButton() {
         guard let task = taskTextField.text else {return}
         
