@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AAC7B02A-1F8D-4A0E-9FCB-EFDC842D63F3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "378B523B-6DB9-4FAC-9B82-8C9EFE18EF32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskMatrix/AddTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskMatrix/MatrixViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MatrixViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - a3ed10e0dc8ae919"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.unimportantTasksView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - d13dc307b388105"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.unimportantTasksView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - 737c6ce8c6e36d03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.unimportantTasksView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - aa0b892c28c207b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.unimportantTasksView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - fea6d4b378aa3dfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TaskMatrix.MatrixViewController"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "625">
+               </Location>
+               <Location
+                  uuid = "638E8ADB-F8A4-4842-8576-B0F146A5208D - 626ec6d84d24e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskMatrix.MatrixViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TaskMatrix.MatrixViewController&gt;"
+                  moduleName = "TaskMatrix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takahitoyamada/Desktop/TaskMatrix/TaskMatrix/MatrixViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

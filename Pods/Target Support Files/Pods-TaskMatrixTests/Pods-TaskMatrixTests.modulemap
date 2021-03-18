@@ -1,0 +1,6 @@
+framework module Pods_TaskMatrixTests {
+  umbrella header "Pods-TaskMatrixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
